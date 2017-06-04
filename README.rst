@@ -1,7 +1,7 @@
 Dtools Package
 ==============
 
-**Dtools** package provide a wrapper object arround relativedelta to manage date and datetime strings
+**Dtools** package provide a wrapper object around relativedelta to manage date and datetime strings
 
 Examples :
 ==========

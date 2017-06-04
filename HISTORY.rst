@@ -9,7 +9,6 @@ News
 1.0.0
 -----
 
-*Release date: 03-Jun-2017*
+*Release date: 04-Jun-2017*
 
 * First stable version
-

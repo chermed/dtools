@@ -21,7 +21,7 @@ test_requirements = [
 setup(
     name='dtools',
     version='1.0.0',
-    description="Python package to manage string date and datetime",
+    description="Wrapper object around relativedelta to manage date and datetime strings",
     long_description=readme + '\n\n' + history,
     author="Mohamed Cherkaoui",
     author_email='chermed@gmail.com',

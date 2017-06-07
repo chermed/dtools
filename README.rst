@@ -3,6 +3,14 @@ Dtools Package
 
 **Dtools** package provide a wrapper object around relativedelta to manage date and datetime strings
 
+Installation :
+==============
+
+
+.. code-block:: shell
+
+    pip install dtools
+
 Examples :
 ==========
 
@@ -64,3 +72,15 @@ Credits:
 ========
 
 Mohamed Cherkaoui <http://mohamedcherkaoui.com>
+
+
+
+News
+====
+
+2.0.0
+-----
+
+*Release date: 04-Jun-2017*
+
+* First stable version

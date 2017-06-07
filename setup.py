@@ -6,9 +6,6 @@ from setuptools import setup
 with open('README.rst') as readme_file:
     readme = readme_file.read()
 
-with open('HISTORY.rst') as history_file:
-    history = history_file.read()
-
 requirements = [
     'future',
     'python-dateutil',
@@ -20,9 +17,9 @@ test_requirements = [
 
 setup(
     name='dtools',
-    version='1.0.0',
+    version='2.0.0',
     description="Wrapper object around relativedelta to manage date and datetime strings",
-    long_description=readme + '\n\n' + history,
+    long_description=readme,
     author="Mohamed Cherkaoui",
     author_email='chermed@gmail.com',
     url='https://github.com/chermed/dtools',
